@@ -20,15 +20,36 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import adonisjs from "./tech/adonisjs.png";
+import aws from "./tech/aws.png";
+import codeigniter from "./tech/codeigniter.png";
+import java from "./tech/java.svg";
+import kotlin from "./tech/kotlin.png";
+import laravel from "./tech/laravel.png";
+import python from "./tech/python.png";
+import springboot from "./tech/springboot.png";
+import pytorch from './tech/pytorch.png';
+import php from "./tech/php.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import upt from "./company/upt.jpg";
+import balitas from "./company/balitas.jpg";
+import seal from "./company/seal.png";
+import phicos from "./company/phicos.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import sdsurakarta from "./sd-surakarta.png";
+import balitasweb from "./balitas.png";
+import covid19 from "./covid19.png";
+import sipp from "./sipp-app.png";
+import enderest from "./enderest-front.png";
+import diffbatik from "./diffbatik.png"
+import { l } from "maath/dist/misc-7d870b3c.esm";
 
 export {
   logo,
@@ -59,4 +80,24 @@ export {
   carrent,
   jobit,
   tripguide,
+  upt,
+  balitas,
+  seal,
+  phicos,
+  adonisjs,
+  aws,
+  codeigniter,
+  java,
+  kotlin,
+  laravel,
+  php,
+  python,
+  springboot,
+  pytorch,
+  sdsurakarta,
+  balitasweb,
+  covid19,
+  sipp,
+  enderest,
+  diffbatik
 };
