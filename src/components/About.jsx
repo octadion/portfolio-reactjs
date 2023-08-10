@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am an accomplished developer with a strong focus on Web and Backend Development,
-        coupled with a keen interest in Machine Learning and Generative AI Engineering. 
+        coupled with a keen interest in Machine Learning and Generative AI. 
         My expertise lies in PHP, JavaScript, TypeScript, Java Spring Boot and Python. 
         I bring a wealth of experience and proficiency in crafting innovative solutions and delivering seamless user experiences. 
         My passion for cutting-edge technologies drives me to continuously explore new avenues for growth and mastery in the ever-
